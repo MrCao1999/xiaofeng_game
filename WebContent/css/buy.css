@@ -1,0 +1,142 @@
+.top {
+	margin-bottom: 20px;
+}
+
+.buybook {
+	width: 1400px;
+}
+
+.buybook-1 {
+	width: 1400px;
+	margin-left: 50px;
+}
+
+.buybook-1-1 {
+	width: 420px;
+	height: 230px;
+	float: left;
+	margin-right: 30px;
+}
+
+.buybook-1-1 div:nth-child(1) {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.buybook-1-1 div:nth-child(2) {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+.buybook-1-1 div:nth-child(2) p:nth-child(2) {
+	margin: 30px 0 0 50px;
+}
+
+.buybook-1-1 div:nth-child(2) p:nth-child(3) {
+	margin-top: 50px;
+}
+
+.buybook-1-1 div:nth-child(2) p:nth-child(3) span:first-child {
+	width: 50px;
+	height: 20px;
+	float: left;
+	color: red;
+	margin: 10px 50px 0 0;
+	font-size: 20px;
+}
+
+.buybook-1-1 div:nth-child(2) p:nth-child(3) span:nth-child(2) a {
+	display: block;
+	color: black;
+	background-color: #f5f2ed;
+	width: 100px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight:bold;
+	border-radius: 10px;
+}
+
+.buybook-1-1 div:nth-child(2) p:nth-child(4) a {
+	display: block;
+	color: black;
+	background-color: #f5f2ed;
+	width: 100px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 40px;
+	font-weight:bold;
+	line-height: 30px;
+}
+
+.sou {
+	width: 1200px;
+	height: 40px;
+	float: left;
+	margin-bottom: 30px;
+}
+
+.sou form {
+	margin-left: 500px;
+}
+
+.sou input[type=text] {
+	width: 300px;
+	height: 30px;
+	float: left;
+	border: 1px solid #51321e;
+}
+
+.sou input[type=submit] {
+	width: 50px;
+	height: 32px;
+	color: white;
+	background-color: #51321e;
+	border: 0;
+	float: left;
+}
+
+.ym {
+	width: 500px;
+	height: 50px;
+	margin: 20px 0 0 500px;
+}
+.ym #tz{
+	width:30px;
+	height:20px;
+	border:0;
+	background-color: #f5f2ed;
+}
+a {
+	color: black;
+}
+
+.shopping_car1 {
+	width: 100px;
+	height: 30px;
+	background-color: #f5f2ed;
+	float: left;
+}
+
+.buybook-1 #add {
+	width: 200px;
+	height: 40px;
+	border: 0px;
+	background-color: #f5f2ed;
+	color: black;
+	font-weight:bold;
+	font-size: 18px;
+	margin: 20px 0 0 1100px;
+}
+#checkbox{
+	width: 20px;
+	height: 20px;
+	margin: 27px 0 0 10px;
+}

@@ -1,0 +1,33 @@
+.ysli {
+	background-color: white;
+	border-top: 2px solid #51321e;
+}
+
+.ysli1 {
+	background-color: #66CCFF;
+}
+
+.ysli2 {
+	background-color: white;
+	border-top: 2px solid red;
+}
+
+.book {
+	display: block;
+	width: 200px;
+	height: 200px;
+}
+
+.afont {
+	text-decoration: underline;
+	color: orange;
+}
+
+.lbt_number .lbt_number_over {
+	background: #9b2d30;
+	color: #FFF;
+}
+
+.border_book {
+	border: 2px solid #66CCFF;
+}
